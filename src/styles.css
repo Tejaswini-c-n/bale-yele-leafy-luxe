@@ -21,6 +21,7 @@
 @theme inline {
   --font-sans: "DM Sans", sans-serif;
   --font-display: "DM Serif Display", serif;
+  --font-kannada: "Noto Sans Kannada", sans-serif;
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
